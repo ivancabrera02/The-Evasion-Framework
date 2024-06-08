@@ -14,9 +14,6 @@
 - <a href="Phollowing.md">Process Hollowing</a> 
 - <a href="Phypnosis.md">Process Hypnosis</a>
 
-### C2
-- <a href="Sliver.md">Sliver</a> 
-
 ### Shellcodes
 - <a href="MAC.md">MAC</a> 
 - <a href="UUID.md">UUID</a> 
