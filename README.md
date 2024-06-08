@@ -10,6 +10,9 @@
 - <a href="NoExtensions.md">No Extensions</a> 
 - <a href="SpoofExt.md">Spoof Extensions</a> 
 ### Process Injection
+- <a href="Phollowing.md">Process Hollowing</a> 
+- <a href="Phypnosis.md">Process Hypnosis</a> 
+
 ### Shellcodes
 - <a href="MAC.md">MAC</a> 
 - <a href="UUID.md">UUID</a> 
