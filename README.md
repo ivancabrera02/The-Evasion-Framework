@@ -9,3 +9,9 @@ Index
 * Initial Access
 - No extensions
 - Spoof extensions
+
+* Process Injection
+* Shellcodes
+- MAC
+- UUID
+* 
