@@ -18,6 +18,6 @@
 - <a href="UUID.md">UUID</a> 
 
 ### Windows Internals
-- <a href="Process&Threads.md">Process & Threads</a>
+- <a href="Process&Threads.md">Process, Threads, Handles and Jobs</a>
 ### Learn from APTs
 - APT1
