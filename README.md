@@ -8,10 +8,14 @@
 
 ### Initial Access
 - <a href="NoExtensions.md">No Extensions</a> 
-- <a href="SpoofExt.md">Spoof Extensions</a> 
+- <a href="SpoofExt.md">Spoof Extensions</a>
+  
 ### Process Injection
 - <a href="Phollowing.md">Process Hollowing</a> 
-- <a href="Phypnosis.md">Process Hypnosis</a> 
+- <a href="Phypnosis.md">Process Hypnosis</a>
+
+### C2
+- <a href="Sliver.md">Sliver</a> 
 
 ### Shellcodes
 - <a href="MAC.md">MAC</a> 
@@ -19,5 +23,7 @@
 
 ### Windows Internals
 - <a href="Process&Threads.md">Process, Threads, Handles and Jobs</a>
+
 ### Learn from APTs
-- <a href="APT1.md">APT1</a> 
+- <a href="APT1.md">APT1</a>
+- <a href="APT28.md">APT28</a> 
