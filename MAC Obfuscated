@@ -1,2 +1,5 @@
+# MAC Ofuscation
 
-![€](https://github.com/ivancabrera02/The-Evasion-Framework/blob/ee3f5a3dbd8c09931de00609dbdc5901de24e2d0/mac.png)
+Las shellcodes generadas por herramientas públicas como meterpreter, havoc o similares son detectables de forma 
+
+<img src="images/mac.png">
