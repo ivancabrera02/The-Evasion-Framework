@@ -19,6 +19,8 @@ A process ends when:
 - Threads calls TerminateProcess(Win32)
 - All their threads end.
 
-## Protected Process
-
 # Threads
+
+# Handles
+
+# Jobs
