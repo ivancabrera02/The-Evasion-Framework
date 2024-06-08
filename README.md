@@ -12,8 +12,8 @@ Index
 
 * Process Injection
 * Shellcodes
-- MAC
-- UUID
+- <a href="MAC.md">MAC</a> 
+- <a href="UUID.md">UUID</a> 
 * 
 *Windows Internals
 
