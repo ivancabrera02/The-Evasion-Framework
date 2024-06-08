@@ -8,7 +8,7 @@
 
 ### Initial Access
 - <a href="NoExtensions.md">No Extensions</a> 
-- Spoof extensions
+- <a href="SpoofExt.md">Spoof Extensions</a> 
 ### Process Injection
 ### Shellcodes
 - <a href="MAC.md">MAC</a> 
