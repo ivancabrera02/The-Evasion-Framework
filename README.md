@@ -3,3 +3,11 @@
 
 > [!NOTE]
 > Everything shown below is for educational purposes.
+
+- To do:
+- [ ] APTs
+- [ ] Packers
+- [ ] Process Injection
+- [ ] Shellcodes
+- [ ] Initial Access
+
