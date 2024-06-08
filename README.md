@@ -22,5 +22,6 @@
 - <a href="Process&Threads.md">Process, Threads, Handles and Jobs</a>
 
 ### Learn from APTs
+Short description of the different APTs and some of their TTPs.
 - <a href="APT1.md">APT1</a>
 - <a href="APT28.md">APT28</a> 
