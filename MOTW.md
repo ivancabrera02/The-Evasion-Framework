@@ -11,6 +11,7 @@ Tricks:
 - Use Zip, RAR, ISO or similar files to compress your payload.
 - Use weird extensions.
 - Use git clone.
+- Use Certutil o WScript to download.
 - Use Certutil to encode and decode to txt.
 
 <img src="images/certu.jpg" >
