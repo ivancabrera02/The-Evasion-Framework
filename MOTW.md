@@ -10,4 +10,6 @@ Tricks:
 
 - Use Zip, RAR, ISO or similar files to compress your payload.
 - Use other extensions like DLL payloads.
-- TRY CVE2023
+- Use Certutil to encode and decode to txt.
+
+<img src="images/certu.jpg" >
