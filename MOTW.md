@@ -9,7 +9,7 @@ AssocGetUrlAction() contains the following risky extensions:
 Tricks:
 
 - Use Zip, RAR, ISO or similar files to compress your payload.
-- Use other extensions like DLL payloads.
+- Use weird extensions.
 - Use Certutil to encode and decode to txt.
 
 <img src="images/certu.jpg" >
