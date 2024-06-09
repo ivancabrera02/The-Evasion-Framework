@@ -9,6 +9,7 @@
 ### Initial Access
 - <a href="NoExtensions.md">No Extensions</a> 
 - <a href="SpoofExt.md">Spoof Extensions</a>
+- <a href="MOTW.md">SmartScreen / MOTW</a>
   
 ### Process Injection
 - <a href="Phollowing.md">Process Hollowing</a> 
