@@ -19,7 +19,6 @@
 - <a href="MAC.md">MAC</a> 
 - <a href="UUID.md">UUID</a> 
 - <a href="String.md">String</a>
-- <a href="IPs.md">IPs</a> 
 
 ### Windows Internals
 Windows Internals concepts.
