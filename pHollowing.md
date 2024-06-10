@@ -10,7 +10,7 @@ The attacker creates a new process in a suspended state (using functions like Cr
 
 - 'Hollow out'
 
-<img src="phollow3.png" >
+<img src="images/phollow3.png" >
 
 Once the suspended process is created, the attacker hollows out the legitimate process. This is done by detaching or freeing the sections of memory that contain the legitimate code of the process. In technical terms, this is achieved using the Nt/ZwUnmapViewOfSection function
 
@@ -20,15 +20,15 @@ The attacker then allocates a block of memory in the flushed process address spa
 
 - Execution
 
- <img src="phollow4.png" >
+ <img src="images/phollow4.png" >
 
 The attacker modifies the process's Instruction Pointer to point to the start of the newly injected malicious code. This is done using the SetThreadContext function.
 
-<img src="phollow2.png" >
+<img src="images/phollow2.png" >
 
 - Resumption of the Process
 
 Finally, the suspended process is resumed (using ResumeThread), but instead of executing the original, legitimate code, it now executes the malicious code that has been injected.
 
-<img src="phollow1.png" >
+<img src="images/phollow1.png" >
 
