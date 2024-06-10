@@ -34,3 +34,8 @@ Finally, the suspended process is resumed (using ResumeThread), but instead of e
 
 <img src="images/phollow1.png" >
 
+Public PoCs:
+
+- https://github.com/m0n0ph1/Process-Hollowing
+- https://github.com/joren485/HollowProcess
+
