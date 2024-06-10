@@ -12,8 +12,8 @@
 - <a href="MOTW.md">SmartScreen / MOTW</a>
   
 ### Process Injection
-- <a href="Phollowing.md">Process Hollowing</a> 
-- <a href="Phypnosis.md">Process Hypnosis</a>
+- <a href="pHollowing.md">Process Hollowing</a> 
+- <a href="pHypnosis.md">Process Hypnosis</a>
 
 ### Shellcodes
 - <a href="MAC.md">MAC</a> 
