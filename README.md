@@ -20,6 +20,12 @@
 - <a href="UUID.md">UUID</a> 
 - <a href="String.md">String</a>
 
+### Lsass Dump
+- <a href="LsassCommon.md">Theory and common forms</a> 
+- <a href="MiniDumpWriteDump.md">MiniDumpWriteDump</a>
+- <a href="RtlSilentProcessExit.md">RtlSilentProcessExit</a> 
+
+
 ### Windows Internals
 Windows Internals concepts.
 - <a href="Process&Threads.md">Process, Threads, Handles and Jobs</a>
