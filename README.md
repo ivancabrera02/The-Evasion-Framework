@@ -10,6 +10,7 @@
 - <a href="NoExtensions.md">No Extensions</a> 
 - <a href="SpoofExt.md">Spoof Extensions</a>
 - <a href="MOTW.md">SmartScreen / MOTW</a>
+- <a href="RegTrick.md">Registry Trick</a>
   
 ### Process Injection
 - <a href="pHollowing.md">Process Hollowing</a> 
