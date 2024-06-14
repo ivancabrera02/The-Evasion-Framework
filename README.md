@@ -14,7 +14,8 @@
   
 ### Process Injection
 - <a href="pHollowing.md">Process Hollowing</a> 
-- <a href="pHypnosis.md">Process Hypnosis</a>
+<!-- - <a href="pHypnosis.md">Process Hypnosis</a> -->
+
 
 ### Shellcodes
 - <a href="MAC.md">MAC</a> 
@@ -23,8 +24,8 @@
 
 ### Lsass Dump
 - <a href="LsassCommon.md">Theory and common forms</a> 
-- <a href="MiniDumpWriteDump.md">MiniDumpWriteDump</a>
-- <a href="RtlSilentProcessExit.md">RtlSilentProcessExit</a> 
+<!-- - <a href="MiniDumpWriteDump.md">MiniDumpWriteDump</a> -->
+<!-- - <a href="RtlSilentProcessExit.md">RtlSilentProcessExit</a> -->
 
 
 ### Windows Internals
