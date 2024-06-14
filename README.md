@@ -27,6 +27,7 @@
 <!-- - <a href="MiniDumpWriteDump.md">MiniDumpWriteDump</a> -->
 <!-- - <a href="RtlSilentProcessExit.md">RtlSilentProcessExit</a> -->
 
+<!-- ### Find Windows Defender Exclusions -->
 
 ### Windows Internals
 Windows Internals concepts.
