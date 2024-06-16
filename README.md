@@ -32,6 +32,7 @@
 ### Windows Internals
 Windows Internals concepts.
 - <a href="Process&Threads.md">Process, Threads, Handles and Jobs</a>
+<!-- - <a href="KernelCallbacks.md">Kernel Callbacks Functions</a> -->
 
 ### Learn from APTs
 Short description of the different APTs and some of their TTPs.
