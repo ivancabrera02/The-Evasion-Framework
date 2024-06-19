@@ -23,7 +23,7 @@
 
 ### Lsass Dump
 - <a href="LsassCommon.md">Theory and common forms</a> 
-<!-- - <a href="MiniDumpWriteDump.md">MiniDumpWriteDump</a> -->
+<a href="MiniDumpWriteDump.md">MiniDumpWriteDump</a>
 <!-- - <a href="RtlSilentProcessExit.md">RtlSilentProcessExit</a> -->
 
 <!-- ### Find Windows Defender Exclusions -->
