@@ -13,5 +13,13 @@ Performing a dump of this, in most cases, will generate alerts from the AV if we
 - Task Manager GUI
 - LoLBins like rundll32.exe, Adplus.exe, Createdump.exe, Dump64.exe, SQLdumper.exe, Dumpminitool.exe or rdrleakdiag.exe
 
+## OPSEC Tricks Ideas
+
+- Use custom tools that use MiniDumpWriteDump or other Windows APIs (we will talk about them in future posts)
+- You can make the file not touch the disk and send it to a remote server
+- You can encrypt the dump if it is going to touch the disk
+
+
+
 
 
