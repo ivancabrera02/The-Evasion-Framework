@@ -10,6 +10,3 @@ If you modify the behavior of an extension, all files with that extension on you
 
 If you want to use this as phishing, you need the user to first execute your .reg file and then your victim extension.
 
-<video width="640" height="360" controls>
-  <source src="images/video1.mp4" type="video/mp4">
-</video>
