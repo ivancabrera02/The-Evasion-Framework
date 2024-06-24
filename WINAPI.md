@@ -33,6 +33,16 @@ BOOL EnumProcessModules(
 ```
 https://learn.microsoft.com/en-us/windows/win32/api/psapi/nf-psapi-enumprocessmodules
 
+- EnumDeviceDrivers
+```
+BOOL EnumDeviceDrivers(
+  [out] LPVOID  *lpImageBase,
+  [in]  DWORD   cb,
+  [out] LPDWORD lpcbNeeded
+);
+```
+https://learn.microsoft.com/es-es/windows/win32/api/psapi/nf-psapi-enumdevicedrivers
+
 ## Evasion
 - SleepEx
 ```
