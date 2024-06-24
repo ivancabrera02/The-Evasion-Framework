@@ -24,8 +24,6 @@
 
 ### Lsass Dump
 - <a href="LsassCommon.md">Common forms and OPSEC Tricks</a> 
-- <a href="MiniDumpWriteDump.md">MiniDumpWriteDump</a>
-<!-- - <a href="RtlSilentProcessExit.md">RtlSilentProcessExit</a> -->
 
 
 <!-- ### Find Windows Defender Exclusions -->
