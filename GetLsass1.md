@@ -6,3 +6,4 @@ En la siguiente ruta encontramos el PID de lsass -> HKLM\SYSTEM\CurrentControlSe
 
 <img src="images/lsasspid1.png" />
 
+You could create a function in C or another language that obtains that value.
