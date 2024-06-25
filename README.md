@@ -29,7 +29,6 @@
 <!-- ### Find Windows Defender Exclusions -->
 
 ### Windows Internals
-Windows Internals concepts.
 - <a href="Process&Threads.md">Process, Threads, Handles and Jobs</a>
 - <a href="WINAPI.md">Offensive Windows APIS</a>
 <!-- - <a href="KernelCallbacks.md">Kernel Callbacks Functions</a> -->
