@@ -23,7 +23,8 @@
 - <a href="String.md">String</a>
 
 ### Lsass Dump
-- <a href="LsassCommon.md">Common forms and OPSEC Tricks</a> 
+- <a href="LsassCommon.md">Common forms and OPSEC Tricks</a>
+<!-- - <a href="GetLsass.md">Get Lsass PID</a> -->
 
 
 <!-- ### Find Windows Defender Exclusions -->
