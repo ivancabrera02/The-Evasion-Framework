@@ -28,6 +28,10 @@
 - <a href="LsassCommon.md">Common forms and OPSEC Tricks</a>
 <!-- - <a href="GetLsass1.md">Get Lsass PID from the registry</a> -->
 
+<!-- ### Anti Sandbox -->
+
+<!-- ### Anti Debugging -->
+
 
 <!-- ### Find Windows Defender Exclusions -->
 
