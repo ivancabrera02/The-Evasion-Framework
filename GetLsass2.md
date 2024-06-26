@@ -12,8 +12,8 @@ The first thing I thought was... what if we do the same in Windows? So I put tog
 
 It's not bad, but it's not very stealthy. I can do something better in Go.
 
-<img src="images/ntbt.png" />
+<img src="images/ntbt.png" width="500px"/>
 
-<img src="images/ntbt2.png" />
+<img src="images/ntbt2.png" width="500px"/>
 
-<img src="images/ntb3.png" />
+<img src="images/ntbt3.png" />
