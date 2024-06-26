@@ -1,12 +1,12 @@
-# Read Lsass PID doing Brute Force
+# Read Lsass PID via NtQuerySystemInformation and doing Brute Force
 
 The other day I found a script in Linux which performed brute force to find the Apache PID.
 
-<img src="images/" />
+<img src="images/linuxlsass.png" />
 
 The first thing I thought was... what if we do the same in Windows? So I put together the following script in powershell.
 
-<img src="images/" />
+<img src="images/ps1lsass.png" />
 
 <img src="images/" />
 
