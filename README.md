@@ -31,6 +31,8 @@
 ### Lsass Dump
 - <a href="LsassCommon.md">Common forms and OPSEC Tricks</a>
 <!-- - <a href="GetLsass1.md">Get Lsass PID from the registry</a> -->
+<!-- - <a href="GetLsass2.md">Get Lsass PID Using doing Brute Forcing</a> -->
+<!-- - <a href="GetLsass3.md">Get Lsass PID from the Event Viewer</a> -->
 
 <!-- ### Anti Sandbox -->
 
