@@ -17,6 +17,7 @@
 - <a href="MOTW.md">SmartScreen / MOTW</a>
 - <a href="RegTrick.md">Registry Trick</a>
 <!-- - <a href="Phishing.md">Phishing OPSEC</a> -->
+<!-- - <a href="EvilNginx.md">EvilNginx OPSEC</a> -->
   
 ### Process Injection
 - <a href="pHollowing.md">Process Hollowing</a> 
