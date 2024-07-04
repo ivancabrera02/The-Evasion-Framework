@@ -43,6 +43,57 @@ BOOL EnumDeviceDrivers(
 ```
 https://learn.microsoft.com/es-es/windows/win32/api/psapi/nf-psapi-enumdevicedrivers
 
+## Injection
+- CreateRemoteThread
+```
+HANDLE CreateRemoteThread(
+  [in]  HANDLE                 hProcess,
+  [in]  LPSECURITY_ATTRIBUTES  lpThreadAttributes,
+  [in]  SIZE_T                 dwStackSize,
+  [in]  LPTHREAD_START_ROUTINE lpStartAddress,
+  [in]  LPVOID                 lpParameter,
+  [in]  DWORD                  dwCreationFlags,
+  [out] LPDWORD                lpThreadId
+);
+```
+https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createremotethread
+
+- CreateRemoteThreadEx
+```
+HANDLE CreateRemoteThreadEx(
+  [in]            HANDLE                       hProcess,
+  [in, optional]  LPSECURITY_ATTRIBUTES        lpThreadAttributes,
+  [in]            SIZE_T                       dwStackSize,
+  [in]            LPTHREAD_START_ROUTINE       lpStartAddress,
+  [in, optional]  LPVOID                       lpParameter,
+  [in]            DWORD                        dwCreationFlags,
+  [in, optional]  LPPROC_THREAD_ATTRIBUTE_LIST lpAttributeList,
+  [out, optional] LPDWORD                      lpThreadId
+);
+```
+https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createremotethreadex
+
+- VirtualAlloc
+```
+LPVOID VirtualAlloc(
+  [in, optional] LPVOID lpAddress,
+  [in]           SIZE_T dwSize,
+  [in]           DWORD  flAllocationType,
+  [in]           DWORD  flProtect
+);
+```
+https://learn.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-virtualalloc
+
+- VirtualProtect
+```
+BOOL VirtualProtect(
+  [in]  LPVOID lpAddress,
+  [in]  SIZE_T dwSize,
+  [in]  DWORD  flNewProtect,
+  [out] PDWORD lpflOldProtect
+);
+```
+https://learn.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-virtualprotect
 ## Evasion
 - SleepEx
 ```
